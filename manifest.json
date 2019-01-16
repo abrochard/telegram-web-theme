@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Telegram Theme",
+  "version": "0.1.0",
+  "description": "Pretty theme for the Telegram web app",
+
+  "content_scripts": [{
+    "css": ["style.css"],
+    "matches": ["https://web.telegram.org/*"]
+  }]
+
+}

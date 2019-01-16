@@ -1,0 +1,36 @@
+
+
+.tg_head_split {
+    max-width: 100% !important;
+}
+
+.im_page_wrap {
+    max-width: 100% !important;
+}
+
+.im_dialogs_col_wrap {
+    width: 25% !important;
+}
+
+.im_message_wrap {
+    max-width: 95% !important;
+}
+
+.im_history_col_wrap {
+    font-size: 15px !important;
+	width: 75% !important;
+    /* background: #282828; */
+    /* color: white; */
+}
+
+.composer_rich_textarea {
+    font-size: 15px !important;
+}
+
+.im_send_panel_wrap {
+	max-width: 80% !important;
+}
+
+.im_send_form {
+	max-width: 90% !important;
+}
